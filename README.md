@@ -44,7 +44,8 @@ I built this project to showcase my understanding of Project Management principl
 📬 Let’s Connect
 If you're a recruiter, mentor, or fellow PM enthusiast, I’d love to connect and hear your thoughts!
 
-🔗 My LinkedIn: https://www.linkedin.com/aditighule
+🔗 My LinkedIn: https://in.linkedin.com/in/aditi-ghule-37a2b0275
+
 📧 Email: aditighule2003@gmail.com
 
 Note- All data used in this case study is a dummy information. 
