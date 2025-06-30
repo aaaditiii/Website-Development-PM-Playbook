@@ -14,14 +14,23 @@ AI Integration: I used Gen AI to help generate sprint plans, risk registers, sta
 📂 What’s Inside
 Here’s a breakdown of the key files and folders in this project:
 
+
 Project_Charter.md	The purpose of the project, goals, constraints, and success metrics
+
 Scope_Statement.md	What’s included (and excluded) from the project’s scope
+
 Work_Breakdown_Structure.md	A detailed breakdown of tasks and deliverables
+
 Risk_Register.md	Identified risks, their impact, and how I planned to handle them
+
 Sprint_Backlog.md	Backlog of tasks organized by priority and sprint
+
 Communication_Plan.md	How I planned to keep stakeholders informed throughout the project
+
 AI_Prompts_Used.md	A list of prompts I used to get help from AI tools
+
 Meeting_Minutes	Notes and action items from weekly project meetings
+
 
 🤖 How I Used Gen AI
 I wanted to explore how Generative AI can support real project tasks. Here’s how I used it in this case study:
