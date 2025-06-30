@@ -1,17 +1,26 @@
 # Website-Development-PM-Playbook
 
 Hi there! 👋
-This repository showcases a simulated end-to-end project plan I created for a fictional website redesign. My goal was to demonstrate how a Project Manager (like myself!) would plan, manage, and deliver a project while exploring how Generative AI (Gen AI) can be used to boost efficiency and cut down on repetitive work.
+
+This repository showcases a simulated end-to-end project plan I created for a fictional website redesign. My goal was to demonstrate how a PM would plan, manage, and deliver a project while exploring how Generative AI (Gen AI) can be used to boost efficiency and cut down on repetitive work.
 
 🎯 Project Overview
+
 Project Name: Website Redesign Initiative
+
 My Role: Associate Solutions Engineer
+
 Type: Personal Case Study
+
 Methodology: Scrum
+
 Tools I Used: ClickUp, Asana, ChatGPT, Excel, GitHub
+
 AI Integration: I used Gen AI to help generate sprint plans, risk registers, stakeholder emails, summaries, and more. 
 
+
 📂 What’s Inside
+
 Here’s a breakdown of the key files and folders in this project:
 
 
@@ -33,6 +42,7 @@ Meeting_Minutes	Notes and action items from weekly project meetings
 
 
 🤖 How I Used Gen AI
+
 I wanted to explore how Generative AI can support real project tasks. Here’s how I used it in this case study:
 
 1. Writing status reports
@@ -47,10 +57,14 @@ I wanted to explore how Generative AI can support real project tasks. Here’s h
 
 You can find actual examples of AI prompts I used in the AI_Prompts_Used.md file.
 
+
 🧠 Why I Created This:
+
 I built this project to showcase my understanding of Project Management principles and demonstrate my hands on skills with tools like ClickUp, Asana, ChatGPT, Excel, GitHub. Experiment with using Gen AI as a productivity partner in PM workflows. This portfolio project reflects both my learning journey and my curiosity about how AI is reshaping the future of work.
 
+
 📬 Let’s Connect
+
 If you're a recruiter, mentor, or fellow PM enthusiast, I’d love to connect and hear your thoughts!
 
 🔗 My LinkedIn: https://in.linkedin.com/in/aditi-ghule-37a2b0275
